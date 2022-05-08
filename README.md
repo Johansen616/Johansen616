@@ -2,7 +2,7 @@
 - 👀 I’m interested in making that dough!
 - 🌱 I’m currently learning about making some dough!
 - 💞️ I’m looking to collaborate on making alot of dough!
-- 📫 How to reach me ... you dont
+- 📫 How to reach me ... you don't.
 
 <!---
 Johansen616/Johansen616 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
